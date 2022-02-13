@@ -1,7 +1,7 @@
 ### Hey, I'm @riseyxyz...
 
 📺 - Currently working on sylentscripts.com <br>
-🔮 - Languages: C#, LUA, HTML, CSS <br>
+🔮 - Learning: C#, LUA, HTML, CSS <br>
 🔐 - discord.gg/sylentscripts <br>
 🌙 - soon...
 
