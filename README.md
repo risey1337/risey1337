@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm @riseyxyz...
+
+📺 - Currently working on sylentscripts.com <br>
+🔮 - Languages: C#, LUA, HTML, CSS <br>
+🔐 - discord.gg/sylentscripts <br>
+🌙 - soon...
 
 <!--
 **riseyxyz/riseyxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
