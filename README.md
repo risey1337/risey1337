@@ -1,5 +1,5 @@
 ### risey#1337
 
-🌙  -  lean.gg <br>
+🌙  -  sentinel.gg <br>
 🧊  -  c++ dev
 
